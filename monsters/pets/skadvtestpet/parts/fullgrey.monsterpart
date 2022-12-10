@@ -1,0 +1,9 @@
+{
+  "name" : "fullgrey",
+  "category" : "skadvtestpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fullgrey.png"
+  }
+}

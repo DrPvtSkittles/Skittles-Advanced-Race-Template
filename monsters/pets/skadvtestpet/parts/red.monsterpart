@@ -1,0 +1,9 @@
+{
+  "name" : "red",
+  "category" : "skadvtestpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "red.png"
+  }
+}

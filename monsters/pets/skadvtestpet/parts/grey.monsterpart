@@ -1,0 +1,9 @@
+{
+  "name" : "grey",
+  "category" : "skadvtestpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "grey.png"
+  }
+}
