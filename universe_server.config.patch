@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/skadvtest",
+		"value" : [
+		    "/ships/skadvtest/skadvtestt0.structure",
+			"/ships/skadvtest/skadvtestt1.structure",
+			"/ships/skadvtest/skadvtestt2.structure",
+			"/ships/skadvtest/skadvtestt3.structure",
+			"/ships/skadvtest/skadvtestt4.structure",
+			"/ships/skadvtest/skadvtestt5.structure",
+			"/ships/skadvtest/skadvtestt6.structure",
+			"/ships/skadvtest/skadvtestt7.structure",
+			"/ships/skadvtest/skadvtestt8.structure"
+		]
+	}
+]
