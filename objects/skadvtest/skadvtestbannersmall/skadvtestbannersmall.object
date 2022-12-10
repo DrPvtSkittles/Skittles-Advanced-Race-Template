@@ -1,0 +1,35 @@
+{
+  "objectName" : "skadvtestbannersmall",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+
+  "description" : "A small skadvtest wallbanner from a skadvtest academy.",
+  "shortdescription" : "Small skadvtest Wall Banner",
+  "race" : "skadvtest",
+
+  "apexDescription" : "This banner is small...",
+  "avianDescription" : "A small banner! Charming!",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A small skadvtest banner...",
+  "humanDescription" : "The skadvtest banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "skadvtestDescription" : "I am so happy to see the skadvtest culture thrive!",  
+
+
+  "inventoryIcon" : "skadvtestbannersmallicon.png",
+  "orientations" : [
+    {
+      "image" : "skadvtestbannersmall.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : []
+
+    }
+  ]
+}
