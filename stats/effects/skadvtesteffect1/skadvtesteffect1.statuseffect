@@ -1,0 +1,10 @@
+{
+  "name" : "skadvtesteffect1",
+
+  "effectConfig" : {},
+
+  "animationConfig" : "skadvtesteffect1.animation",
+
+  "label" : "Ewwww",
+  "icon" : "skadvtesteft1icon.png"
+}
