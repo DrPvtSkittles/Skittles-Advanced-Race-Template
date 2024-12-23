@@ -1,0 +1,6 @@
+[
+    { "op" : "add",
+        "path" : "/scriptConfig/giveSpeciesBlueprints/skadvtest",
+        "value" : ["mechbodyskadvtest"]
+    }
+]
